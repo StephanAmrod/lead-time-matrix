@@ -1,0 +1,43 @@
+<Solution>
+  <Folder Name="/BRD/">
+    <File Path="BRD/0 -Table of Contents.md" />
+    <File Path="BRD/1-introduction.md" />
+    <File Path="BRD/2.1-special-dates-manager.md" />
+    <File Path="BRD/2.2-branding-departments-manager.md" />
+    <File Path="BRD/2.3-lead-time-matrix.md" />
+    <File Path="BRD/3.1-calculation-model-overview.md" />
+    <File Path="BRD/3.2-core-calculation-principles.md" />
+    <File Path="BRD/3.3-jobcard-lead-time-calculation.md" />
+    <File Path="BRD/3.4-order-lead-time-calculation.md" />
+    <File Path="BRD/3.5-working-day-calendar.md" />
+    <File Path="BRD/3.6-time-unit-handling.md" />
+    <File Path="BRD/3.7-changes-to-lead-times.md" />
+    <File Path="BRD/3.8-exceptions.md" />
+    <File Path="BRD/4.1-permissions.md" />
+    <File Path="BRD/4.2-special-dates-manager.md" />
+    <File Path="BRD/4.3-branding-departments-manager.md" />
+    <File Path="BRD/4.4-production-lead-time-matrix.md" />
+    <File Path="BRD/4.5-warehouse-lead-time-matrix.md" />
+  </Folder>
+  <Folder Name="/Stories/">
+    <File Path="Stories/3.3-calculate-jobcard-lead-time.md" />
+    <File Path="Stories/3.4-calculate-order-lead-time.md" />
+    <File Path="Stories/StoriesOverview.md" />
+  </Folder>
+  <Folder Name="/TechnicalDesign/">
+    <File Path="TechnicalDesign/0-Table-of-Contents.md" />
+    <File Path="TechnicalDesign/01-document-control-and-change-history.md" />
+    <File Path="TechnicalDesign/02-executive-summary.md" />
+    <File Path="TechnicalDesign/03-current-state-and-technical-debt.md" />
+    <File Path="TechnicalDesign/04-calculation-model-and-engine.md" />
+    <File Path="TechnicalDesign/05-special-dates-and-working-day-logic.md" />
+    <File Path="TechnicalDesign/06-sync-behaviour.md" />
+    <File Path="TechnicalDesign/07-proposed-architecture-artefacts.md" />
+    <File Path="TechnicalDesign/08-dual-run-synchronisation-and-integrity.md" />
+    <File Path="TechnicalDesign/09-risk-and-impact-assessment.md" />
+    <File Path="TechnicalDesign/10-data-dictionary.md" />
+    <File Path="TechnicalDesign/11-non-functional-requirements.md" />
+    <File Path="TechnicalDesign/12-deployment-and-rollback-strategy.md" />
+    <File Path="TechnicalDesign/13-principles-compliance-checklist.md" />
+  </Folder>
+</Solution>
