@@ -20,8 +20,10 @@
     <File Path="BRD/4.5-warehouse-lead-time-matrix.md" />
   </Folder>
   <Folder Name="/Stories/">
+    <File Path="../Moyo/docs/stories/Module-Setup.md" />
     <File Path="Stories/3.3-calculate-jobcard-lead-time.md" />
     <File Path="Stories/3.4-calculate-order-lead-time.md" />
+    <File Path="Stories/4.1-permissions.md" />
     <File Path="Stories/StoriesOverview.md" />
   </Folder>
   <Folder Name="/TechnicalDesign/">
