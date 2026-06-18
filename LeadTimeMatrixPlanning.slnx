@@ -24,11 +24,20 @@
     <File Path="Stories/3.3-calculate-jobcard-lead-time.md" />
     <File Path="Stories/3.4-calculate-order-lead-time.md" />
     <File Path="Stories/4.1-permissions.md" />
+    <File Path="Stories/amtrack-integration-changes.md" />
+    <File Path="Stories/calculation-input-caching.md" />
+    <File Path="Stories/data-migration-etl.md" />
+    <File Path="Stories/data-model-live-tables.md" />
+    <File Path="Stories/data-model-update-tables.md" />
+    <File Path="Stories/flowgear-sync-support-api.md" />
+    <File Path="Stories/graphql-endpoint-setup.md" />
+    <File Path="Stories/observability-admin-audit-logs.md" />
+    <File Path="Stories/parity-run-shadow-calculation.md" />
+    <File Path="Stories/pimcore-validation-service.md" />
     <File Path="Stories/StoriesOverview.md" />
   </Folder>
   <Folder Name="/TechnicalDesign/">
     <File Path="TechnicalDesign/0-Table-of-Contents.md" />
-    <File Path="TechnicalDesign/01-document-control-and-change-history.md" />
     <File Path="TechnicalDesign/02-executive-summary.md" />
     <File Path="TechnicalDesign/03-current-state-and-technical-debt.md" />
     <File Path="TechnicalDesign/04-calculation-model-and-engine.md" />
