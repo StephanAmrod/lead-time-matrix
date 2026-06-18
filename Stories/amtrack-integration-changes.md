@@ -1,5 +1,7 @@
 # Story: Lead Time Matrix - Amtrack Integration Changes (delegate to Moyo + circuit breaker)
 
+**TD Dual-Run Synchronisation & Integrity : Amtrack Changes**
+
 **BRD References:** N/A (architecture-driven)
 **Tech Design References:** TechnicalDesign/08 (Dual-Run Synchronisation & Integrity), TechnicalDesign/09 (Decommission Plan), TechnicalDesign/11 (NFR - Failover/Availability)
 **Dev Hours:** 16

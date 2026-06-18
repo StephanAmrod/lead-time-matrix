@@ -1,5 +1,7 @@
 # Story: Lead Time Matrix - GraphQL Endpoint Setup (Internal & External instances)
 
+**TD Proposed Architecture Artefacts : API Contracts**
+
 **BRD References:** N/A (architecture-driven)
 **Tech Design References:** TechnicalDesign/07 (API Contracts - Calculation Query)
 **Dev Hours:** 12

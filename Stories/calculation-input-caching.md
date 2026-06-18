@@ -1,5 +1,7 @@
 # Story: Lead Time Matrix - Calculation Input Caching with Daily Invalidation
 
+**TD Non-Functional Requirements : Performance**
+
 **BRD References:** N/A (NFR-driven)
 **Tech Design References:** TechnicalDesign/11 (Caching Strategy)
 **Dev Hours:** 8

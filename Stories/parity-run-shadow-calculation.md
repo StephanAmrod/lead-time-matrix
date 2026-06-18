@@ -1,5 +1,7 @@
 # Story: Lead Time Matrix - Parity Run shadow-calculation comparison
 
+**TD Deployment & Rollback Strategy : Data Migration**
+
 **BRD References:** N/A (deployment-driven)
 **Tech Design References:** TechnicalDesign/12 (Parity Run)
 **Dev Hours:** 12

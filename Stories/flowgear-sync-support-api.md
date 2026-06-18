@@ -1,5 +1,7 @@
 # Story: Lead Time Matrix - Flowgear Sync Support APIs (Get pending / Mark synced)
 
+**TD Proposed Architecture Artefacts : Flowgear Sync Updates**
+
 **BRD References:** N/A (Flowgear integration support)
 **Tech Design References:** TechnicalDesign/07 (Flowgear Sync Updates), TechnicalDesign/08 (Synchronisation Directionality)
 **Dev Hours:** 8

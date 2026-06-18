@@ -1,5 +1,7 @@
 # Story: Lead Time Matrix - Observability & Admin Audit Logs forwarded to Signoz
 
+**TD Non-Functional Requirements : Observability**
+
 **BRD References:** N/A (NFR-driven)
 **Tech Design References:** TechnicalDesign/11 (Observability)
 **Dev Hours:** 8

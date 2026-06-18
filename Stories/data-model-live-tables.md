@@ -1,5 +1,7 @@
 # Story: Lead Time Matrix - Create Live (Green) Domain Entities & Database Tables
 
+**TD Proposed Architecture Artefacts : Data Model**
+
 **BRD References:** Data Model (TechnicalDesign/07)
 **Dev Hours:** 16
 
