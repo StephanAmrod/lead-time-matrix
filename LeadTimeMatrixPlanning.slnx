@@ -29,8 +29,10 @@
     <File Path="Stories/data-migration-etl.md" />
     <File Path="Stories/data-model-live-tables.md" />
     <File Path="Stories/data-model-update-tables.md" />
+    <File Path="Stories/EPICS_AND_STORIES.md" />
     <File Path="Stories/flowgear-sync-support-api.md" />
     <File Path="Stories/graphql-endpoint-setup.md" />
+    <File Path="Stories/MissingEpics.md" />
     <File Path="Stories/observability-admin-audit-logs.md" />
     <File Path="Stories/parity-run-shadow-calculation.md" />
     <File Path="Stories/pimcore-validation-service.md" />
